@@ -8,23 +8,21 @@ namespace Teena_Thomas_8805388_Assignment2
 {
     internal class Program
     {
-        Rectangle rectObj = new Rectangle();
         
         static void Main(string[] args)
         {
-            int length = 0, width = 0, perimeter = 0, area = 0, option = 0;
             Rectangle rectObj = new Rectangle();
-            
+            int length = 0, width = 0, perimeter = 0, area = 0, option = 0;
             Console.WriteLine("Please Enter the length of the rectangle: ");
           
             while ((!int.TryParse(Console.ReadLine(),out length)) || (length <= 0))
             {     
-                    Console.WriteLine("Please Enter a valid integer value!");
-                
+                    Console.WriteLine("Please Enter a valid integer value!");               
             }
             Console.WriteLine("Please Enter the width of the rectangle: ");
             while ((!int.TryParse(Console.ReadLine(), out width)) || (width <= 0))
-            { if (width == 0)
+            { 
+                if (width == 0)
                 {
                     Console.WriteLine("Please Enter a valid integer value!");
                 }
