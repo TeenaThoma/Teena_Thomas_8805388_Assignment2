@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace Teena_Thomas_8805388_Assignment2
 {
-    public class Rectangle
+    public  class Rectangle
     {
        private int length;
         private int width;
 
         //Default constructor with length and width values set to 1
-        public Rectangle()
+        public  Rectangle()
         {
             length = 1;
             width = 1;
@@ -23,7 +23,7 @@ namespace Teena_Thomas_8805388_Assignment2
             length = len;
             width = wid;
         }
-        public int GetLength()
+        public  int GetLength()
         {
             return length;
         }

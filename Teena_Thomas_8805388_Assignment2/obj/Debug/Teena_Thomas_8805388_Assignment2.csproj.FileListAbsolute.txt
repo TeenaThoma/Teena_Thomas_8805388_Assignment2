@@ -6,3 +6,12 @@ C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388
 C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\obj\Debug\Teena_Thomas_8805388_Assignment2.csproj.CoreCompileInputs.cache
 C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\obj\Debug\Teena_Thomas_8805388_Assignment2.exe
 C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\obj\Debug\Teena_Thomas_8805388_Assignment2.pdb
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\nunit.engine.dll
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\nunit.engine.api.dll
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\nunit.engine.core.dll
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\nunit.framework.dll
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\bin\Debug\nunit.framework.xml
+C:\Users\Dell\source\repos\Teena_Thomas_8805388_Assignment2\Teena_Thomas_8805388_Assignment2\obj\Debug\Teena_Thomas_8805388_Assignment2.csproj.CopyComplete
